@@ -1,2 +1,2 @@
 # jQuery-Playground
-freeCodeCamp HTML/CSS Responsive Design with Bootstrap
+freeCodeCamp: HTML/CSS: Responsive Design with Bootstrap
